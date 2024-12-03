@@ -1,9 +1,10 @@
-// ######################################################################
-// ### Author: Andrew Photinakis                                      ###
-// ### Course: Concepts of Parallel Computing and Distributed Systems ###
+// ########################################################################
+// ### Author: Andrew Photinakis                                        ###
+// ### File: SecureRandom.cs                                            ###
+// ### Description: Provides a secure random number generator using     ###
+// ### cryptographic APIs to generate secure random bytes.              ###
+// ########################################################################
 
-// ### Due Date: October 31, 2023                                     ###
-// ######################################################################
 using System.Security.Cryptography;
 
 namespace SecureRandomNamespace

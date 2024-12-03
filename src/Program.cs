@@ -1,8 +1,12 @@
-﻿// ######################################################################
-// ### Author: Andrew Photinakis                                      ###
-// ### Course: Concepts of Parallel Computing and Distributed Systems ###
-// ### Due Date: October 31, 2023                                     ###
-// ######################################################################
+﻿// ########################################################################
+// ### Author: Andrew Photinakis                                        ###
+// ### File: Program.cs                                                 ###
+// ### Description: Main application to generate prime numbers with     ###
+// ### custom exception handling for input errors. Includes logic for   ###
+// ### generating prime numbers based on user-defined bit length and    ###
+// ### count, with error handling and usage instructions.               ###
+// ########################################################################
+
 using System.Diagnostics;
 using System.Numerics;
 using ExtensionMethod;
