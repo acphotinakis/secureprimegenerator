@@ -1,5 +1,8 @@
 # Prime Generation Library
 
+![C# Badge](https://img.shields.io/badge/C%23%20.NET-7.0-blue?style=flat-square&logo=csharp)
+
+
 This repository contains a C# implementation of a secure and efficient prime number generator using parallel processing and probabilistic primality testing. The library includes support for generating prime numbers of specified bit lengths and checking primality.
 
 # Project Overview
